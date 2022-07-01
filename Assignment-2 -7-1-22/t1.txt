@@ -1,0 +1,7 @@
+FILE COMMANDS
+1. ls - is used to list all the files and directory.
+2. pwd present working directory- show the current directory
+3. rm file - delete file
+4. rm -r dir - delete directory dir
+5. rm -f file - force remove file
+6. rm -rf dir - force remove directory dir

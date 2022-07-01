@@ -1,0 +1,5 @@
+ 
+
+
+cp fil1 file2 - copy fil1 to file2
+ cp -r file1 file2 - creates file2 if not created and then copies
